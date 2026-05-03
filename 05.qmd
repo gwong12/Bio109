@@ -47,46 +47,87 @@ Using your textbook define or identify the following terms.
 
 **Epidermal Layer**
 
-| Term                          | Definition |
-|-------------------------------|------------|
-| Epidermis                     |            |
-| Stratum corneum               |            |
-| Stratum lucidum               |            |
-| Stratum granulosum            |            |
-| Stratum spinosum              |            |
-| Stratum basale (germinitivum) |            |
-| Dermal Layer                  |            |
++-------------------------------+---------------------------------------------------------------------------------------------+
+| Term                          | Definition                                                                                  |
++===============================+=============================================================================================+
+| Epidermis                     | outermost tissue layer of skin (stratified squamous epithelium)                             |
++-------------------------------+---------------------------------------------------------------------------------------------+
+| Stratum corneum               | most superficial layer of epidermis                                                         |
+|                               |                                                                                             |
+|                               | -   15-30 layers, cells are dead, filled with keratin, attached to each other w/ desmosomes |
++-------------------------------+---------------------------------------------------------------------------------------------+
+| Stratum lucidum               | between corneum & granulosum, found only in thick skin of palms, soles of feet, digits      |
++-------------------------------+---------------------------------------------------------------------------------------------+
+| Stratum granulosum            | superficial to spinosum                                                                     |
+|                               |                                                                                             |
+|                               | -   granules of keratin present, cells flatter & thinner                                    |
++-------------------------------+---------------------------------------------------------------------------------------------+
+| Stratum spinosum              | superficial to basale                                                                       |
+|                               |                                                                                             |
+|                               | -   presence of desmosomes                                                                  |
+|                               |                                                                                             |
+|                               | -   8-10 layers of keratinocytes (look spiny), immune cells (dendritic) present             |
++-------------------------------+---------------------------------------------------------------------------------------------+
+| Stratum basale (germinitivum) | deepest layer, made of epidermal stem cells (actively mitotic)                              |
++-------------------------------+---------------------------------------------------------------------------------------------+
+| Dermal Layer                  |                                                                                             |
++-------------------------------+---------------------------------------------------------------------------------------------+
 
 **Dermal Layer**
 
-| Term            | Definition |
-|-----------------|------------|
-| Dermis          |            |
-| Papillary layer |            |
-| Reticular layer |            |
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Term            | Definition                                                                                                                                                      |
++=================+=================================================================================================================================================================+
+| Dermis          | layer of skin between epidermis & hypodermis, composed mainly of connective tissue and containing blood vessels, hair follicles, sweat glands, other structures |
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Papillary layer | superficial layer, middle of loose areolar connective tissue                                                                                                    |
+|                 |                                                                                                                                                                 |
+|                 | -   contains capillary loops, touch receptors                                                                                                                   |
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Reticular layer | deeper layer, dense connective tissue with presence of collagen & elastin fibers                                                                                |
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-| Term                            | Definition |
-|---------------------------------|------------|
-| Subcutaneous Layer (Hypodermis) |            |
++----------------------------------+------------------------------------------------------------+
+| Term                             | Definition                                                 |
++==================================+============================================================+
+| Subcutaneous Layer (Hypodermis)  | connective tissue connecting integument to underlying base |
++----------------------------------+------------------------------------------------------------+
 
 **Integumentary Structures**
 
-| Term                            | Definition |
-|---------------------------------|------------|
-| Dermal papillae                 |            |
-| Hair shaft                      |            |
-| Hair root                       |            |
-| Hair follicle                   |            |
-| Pore                            |            |
-| Arrector pili muscle            |            |
-| Sebaceous gland                 |            |
-| Merocrine (eccrine) sweat gland |            |
-| Apocrine sweat gland            |            |
-| Free nerve ending               |            |
-| Meissner's (tactile) corpuscle  |            |
-| Pacinian (pressure) corpuscle   |            |
-| Keratinocyte                    |            |
-| Melanocyte                      |            |
++---------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Term                            | Definition                                                                                                       |
++=================================+==================================================================================================================+
+| Dermal papillae                 | extension of papillary layer of dermis that increases surface contact between epidermis & dermis                 |
++---------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Hair shaft                      | above epidermis, not anchored to follicle                                                                        |
++---------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Hair root                       | below epidermis, anchored to follicle                                                                            |
++---------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Hair follicle                   | cavity/sac where hair originates                                                                                 |
++---------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Pore                            | small opening                                                                                                    |
++---------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Arrector pili muscle            | smooth muscle that is activated in response to external stimuli that pull on hair follicles & make hair stand up |
++---------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Sebaceous gland                 | type of oil gland that's found in dermis all over body                                                           |
+|                                 |                                                                                                                  |
+|                                 | -   helps lubricate & waterproof skin & hair by secreting sebum                                                  |
++---------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Merocrine (eccrine) sweat gland | common sweat gland, produces hypotonic sweat for thermoregulation                                                |
++---------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Apocrine sweat gland            | armpits & genital regions                                                                                        |
++---------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Free nerve ending               | bare nerve ending; unspecialized, afferent (inward) nerve fiber sending signal to sensory neuron                 |
++---------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Meissner's (tactile) corpuscle  | responds to touch (light)                                                                                        |
++---------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Pacinian (pressure) corpuscle   | receptor in skin that responds to vibration                                                                      |
++---------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Keratinocyte                    | cell that produces keratin & is most predominant in epidermis                                                    |
++---------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Melanocyte                      | cell in stratum basale of epidermis that produces pigment melanin                                                |
++---------------------------------+------------------------------------------------------------------------------------------------------------------+
 
 ## **Prelab Activity 5.2**
 
@@ -98,16 +139,16 @@ Using your textbook define or identify the following layers.
 
 ### Label the following layers.
 
--   4: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   5: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   6: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   4: epidermis
+-   5: dermis
+-   6: hypodermis
 
 ### Label the following accessory structures:
 
--   15: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   21: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   14: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   20: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   15: sebaceous gland
+-   21: Pacinian corpuscle
+-   14: arrector pili muscle
+-   20: sweat gland (eccrine)
 
 ## **Lab Activities**
 
@@ -147,13 +188,13 @@ The Integumentary system functions include but are not limited to the following 
 
 **Table 5.1 Epidermal Layers (Listed Superficial to Deep)**
 
-| Epidermal Layer               | Major Features |
-|-------------------------------|----------------|
-| Stratum corneum               |                |
-| Stratum lucidum               |                |
-| Stratum granulosum            |                |
-| Stratum spinosum              |                |
-| Stratum basale (germinitivum) |                |
+| Epidermal Layer               | Major Features           |
+|-------------------------------|--------------------------|
+| Stratum corneum               | filled with keratin      |
+| Stratum lucidum               | thick skin               |
+| Stratum granulosum            | granules of keratin      |
+| Stratum spinosum              | keratinocytes, dendrites |
+| Stratum basale (germinitivum) | epidermal stem cells     |
 
 ## **Lab Activities**
 
@@ -192,13 +233,19 @@ The Integumentary system functions include but are not limited to the following 
 
 **Table 5.2 Epidermal layers listed superficial to deep.**
 
-| Epidermal Layer    | Description |
-|--------------------|-------------|
-| Stratum corneum    |             |
-| Stratum lucidum    |             |
-| Stratum granulosum |             |
-| Stratum spinosum   |             |
-| Stratum basale     |             |
++----------------------------------+-----------------------------------------------------------------------------------------------+
+| Epidermal Layer                  | Description                                                                                   |
++==================================+===============================================================================================+
+| Stratum corneum                  | most superficial, cells are dead, filled with keratin, attached to each other with desmosomes |
++----------------------------------+-----------------------------------------------------------------------------------------------+
+| Stratum lucidum                  | only in thick skin covering palms, soles of feet, digits                                      |
++----------------------------------+-----------------------------------------------------------------------------------------------+
+| Stratum granulosum               | flatter & thinner, granules of keratin present                                                |
++----------------------------------+-----------------------------------------------------------------------------------------------+
+| Stratum spinosum                 | presence of desmosomes                                                                        |
++----------------------------------+-----------------------------------------------------------------------------------------------+
+| Stratum basale                   | made of epidermal stem cells, deepest layer                                                   |
++----------------------------------+-----------------------------------------------------------------------------------------------+
 
 ### **Lab Activity 5.2:**
 
@@ -246,19 +293,19 @@ Describe the function of each of the listed dermal structures.
 
 **Table 5.3 Table of the Dermal Structures and their Function**
 
-| Dermal Structure                | Function(s) |
-|---------------------------------|-------------|
-| Dermal papillae                 |             |
-| Pore                            |             |
-| Arrector pili muscle            |             |
-| Sebaceous gland                 |             |
-| Merocrine (eccrine) sweat gland |             |
-| Apocrine sweat gland            |             |
-| Free nerve ending               |             |
-| Meissner's (tactile) corpuscle  |             |
-| Pacinian (pressure) corpuscle   |             |
-| Keratinocyte                    |             |
-| Melanocyte                      |             |
+| Dermal Structure | Function(s) |
+|----|----|
+| Dermal papillae | extension of papillary layer of dermis that increases surface contact between epidermis & dermis |
+| Pore | small opening |
+| Arrector pili muscle | respond to external stimuli to make hair stand up |
+| Sebaceous gland | lubricate/waterproof skin & hair |
+| Merocrine (eccrine) sweat gland | thermoregulation |
+| Apocrine sweat gland | sweat production in armpits & genital regions |
+| Free nerve ending | send signals to sensory neurons |
+| Meissner's (tactile) corpuscle | touch receptor |
+| Pacinian (pressure) corpuscle | vibration receptor |
+| Keratinocyte | produce keratin |
+| Melanocyte | produce melanin |
 
 ## **Epidermis**
 
@@ -338,18 +385,21 @@ Using a model or diagram of the integumentary system, identify and describe the 
 ## **Post Lab Activity 5.1: Answer the concept questions**
 
 -   Name the layers of the dermis.
+    -   papillary = areolar connective tissue, contains capillary loops, touch receptors
+    -   reticular = dense c.t., contains hair follicles, glands, blood vessels, pressure receptors, nerve fibers
 
 \
 \
 \
 
 -   List three major types of glands associated with the integumentary system and describe their function.
-
-\
-\
-\
-
+    -   sebaceous: oil gland for lubricating & waterproofing skin & hair
+    -   merocrine/eccrine: sweat for thermoregulation
+    -   appocrine: sweat in armpits & genital region\
+        \
+        \
 -   What are the three protective functions of the integumentary system?
+    -   microbes, UV, impact, abrasion, fluid loss, chemicals
 
 \
 \
@@ -361,21 +411,35 @@ Using a model or diagram of the integumentary system, identify and describe the 
 
 ## **Table 5.4 Matching: Write the Letter of the Definition in the Column to the Left of the Term**
 
-| \# | Terms | Definitions |
-|-----|---------------|------------------------------------------|
-| 1 | Pore | a\. The part of a hair projecting beyond the surface of the skin |
-| 2 | Arrector pili muscle | b\. An onion-shaped structure that is responsible for sensitivity to vibration and pressure |
-| 3 | Meissner's corpuscle | c\. Any of the small sacculated glands lodged in the substance of the derma, usually opening into the hair follicles, and secreting an oily material |
-| 4 | Pacinian corpuscle | d\. An organ found in mammalian skin which regulates hair growth |
-| 5 | Keratinocyte | e\. A small opening or empty space. |
-| 6 | Apocrine sweat gland | f\. The enlarged basal part of a hair within the skin |
-| 7 | Hair follicle | g\. A type of nerve ending in the skin that is responsible for sensitivity to pressure |
-| 8 | Dermal papillae | h\. The small smooth muscles associated with the base of each hair that contract when the body surface is chilled and erect the hairs |
-| 9 | Merocrine sweat gland | i\. Glands found in places like the armpits, scrotum, and anus. They tend to open into hair follicles instead of hairless areas of skin. |
-| 10 | Hair root | j\. An unspecialized, afferent nerve fiber ending of a sensory neuron |
-| 11 | Sebaceous gland | k\. An epidermal cell that produces keratin. |
-| 12 | Free nerve ending | l\. True sweat glands in the sense of helping to regulate body temperature |
-| 13 | Hair shaft | m\. Any vascular protuberance of the skin's dermal layer extending into the epidermal layer, often containing tactile corpuscles |
++----------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| \#       | Terms                 | Definitions                                                                                                                                          |
++==========+=======================+======================================================================================================================================================+
+| 1        | Pore                  | a\. The part of a hair projecting beyond the surface of the skin                                                                                     |
++----------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2        | Arrector pili muscle  | b\. An onion-shaped structure that is responsible for sensitivity to vibration and pressure                                                          |
++----------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3        | Meissner's corpuscle  | c\. Any of the small sacculated glands lodged in the substance of the derma, usually opening into the hair follicles, and secreting an oily material |
++----------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4        | Pacinian corpuscle    | d\. An organ found in mammalian skin which regulates hair growth                                                                                     |
++----------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5        | Keratinocyte          | e\. A small opening or empty space.                                                                                                                  |
++----------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 6        | Apocrine sweat gland  | f\. The enlarged basal part of a hair within the skin                                                                                                |
++----------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 7        | Hair follicle         | g\. A type of nerve ending in the skin that is responsible for sensitivity to pressure                                                               |
++----------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 8        | Dermal papillae       | h\. The small smooth muscles associated with the base of each hair that contract when the body surface is chilled and erect the hairs                |
++----------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 9        | Merocrine sweat gland | i\. Glands found in places like the armpits, scrotum, and anus. They tend to open into hair follicles instead of hairless areas of skin.             |
++----------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 10       | Hair root             | j\. An unspecialized, afferent nerve fiber ending of a sensory neuron                                                                                |
++----------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 11       | Sebaceous gland       | k\. An epidermal cell that produces keratin.                                                                                                         |
++----------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 12       | Free nerve ending     | l\. True sweat glands in the sense of helping to regulate body temperature                                                                           |
++----------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 13       | Hair shaft            | m\. Any vascular protuberance of the skin's dermal layer extending into the epidermal layer, often containing tactile corpuscles                     |
++----------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Match the following terms with the correct parts in figure 5.15.
 
@@ -383,19 +447,19 @@ Match the following terms with the correct parts in figure 5.15.
 
 | Dermal Structure      | Number on Figure 5.15 |
 |-----------------------|-----------------------|
-| Pore                  |                       |
-| Arrector pili muscle  |                       |
-| Meissner's corpuscle  |                       |
-| Pacinian corpuscle    |                       |
-| Keratinocyte          |                       |
-| Apocrine sweat gland  |                       |
-| Hair follicle         |                       |
-| Dermal papillae       |                       |
+| Pore                  | 1                     |
+| Arrector pili muscle  | 14                    |
+| Meissner's corpuscle  | 3                     |
+| Pacinian corpuscle    | 21                    |
+| Keratinocyte          | 12                    |
+| Apocrine sweat gland  | 20                    |
+| Hair follicle         | 16                    |
+| Dermal papillae       | 2                     |
 | Merocrine sweat gland |                       |
-| Hair root             |                       |
+| Hair root             | 17                    |
 | Sebaceous gland       |                       |
 | Free nerve ending     |                       |
-| Hair shaft            |                       |
+| Hair shaft            | 9                     |
 
 ![](images/_page_115_Picture_3.jpeg)
 
@@ -405,24 +469,41 @@ Match the statement blank with the correct answer.
 
 **Table 5.6 Match the statement with the best answer.**
 
-| Answer | Statement | Possible Answer |
-|------------|--------------------------------------|-----------------|
-| a\. | The epidermis is composed of \_\_\_\_\_\_\_\_\_\_. | Hair bulb |
-| b\. | The deepest layer of the epidermis. | Sudoriferous |
-| c\. | The majority of the cells of the epidermis are \_\_\_\_\_\_\_\_\_\_ , so-called because they make \_\_\_\_\_\_\_\_\_\_. | stratum basale |
-| d\. | Melanocytes are located in the \_\_\_\_\_\_\_\_\_\_ (which layer?). | stratum lucidum |
-| e\. | Immune cells in the stratum spinosum which protect against invaders are the \_\_\_\_\_\_\_\_\_\_. | root |
-| f\. | A very thin layer called the \_\_\_\_\_\_\_\_\_\_ is in the epidermis but is visible only in thick skin. | keratin |
-| g\. | The first level of protection against abrasion and toxic chemicals at the body's surface is provided by the \_\_\_\_\_\_\_\_\_\_. | Hair shaft |
-| h\. | The dermis consists of two layers: the \_\_\_\_\_\_\_\_\_\_, which is characterized by a dimpled interface with the epidermis, and the \_\_\_\_\_\_\_\_\_\_, which accounts for 80% of the skin's thickness | Pacinian corpuscles; |
-| i\. | The reticular layer of the dermis contains \_\_\_\_\_\_\_\_\_\_ to sense firm pressure. | papillary layer; reticular layer |
-| j\. | Apocrine and eccrine glands are both \_\_\_\_\_\_\_\_\_\_ (sweat) glands. | keratinocytes; keratin |
-| k\. | \_\_\_\_\_\_\_\_\_\_ glands produce a waxy substance to protect the ear canal from dust, small insects, etc. | squamous epithelial tissue |
-| l\. | The portion of the hair that is above the surface of the skin is called the \_\_\_\_\_\_\_\_\_\_. | Stratum corneum |
-| m\. | The sub-surface portion of the hair is called the \_\_\_\_\_\_\_\_\_\_. | Sudoriferous |
-| n\. | The origin of the hair shaft, deep within the dermis, is called the \_\_\_\_\_\_\_\_\_\_. | Ceruminous |
-| o\. | The sheath in which a hair is held is called \_\_\_\_\_\_\_\_\_\_. | Langerhans' cells |
-|  |  | follicle |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+| Answer   | Statement                                                                                                                                                                                                                     | Possible Answer                  |
++==========+===============================================================================================================================================================================================================================+==================================+
+| a\.      | The epidermis is composed of \_\_\_\_keratin\_\_\_\_\_\_.                                                                                                                                                                     | Hair bulb                        |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+| b\.      | The deepest layer of the epidermis. stratum basale                                                                                                                                                                            | Sudoriferous                     |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+| c\.      | The majority of the cells of the epidermis are \_\_\_\_\_keratinocytes\_\_\_\_\_ , so-called because they make \_\_\_\_keratin\_\_\_\_\_\_.                                                                                   | stratum basale                   |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+| d\.      | Melanocytes are located in the \_\_\_\_stratum basale\_\_\_\_\_\_ (which layer?).                                                                                                                                             | stratum lucidum                  |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+| e\.      | Immune cells in the stratum spinosum which protect against invaders are the \_\_\_\_Langerhans' cells\_\_\_\_\_\_.                                                                                                            | root                             |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+| f\.      | A very thin layer called the \_\_\_\_stratum lucidum\_\_\_\_\_\_ is in the epidermis but is visible only in thick skin.                                                                                                       | keratin                          |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+| g\.      | The first level of protection against abrasion and toxic chemicals at the body's surface is provided by the \_\_\_\_\_stratum corneum\_\_\_\_\_.                                                                              | Hair shaft                       |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+| h\.      | The dermis consists of two layers: the \_\_\_\_\_papillary\_\_\_\_\_, which is characterized by a dimpled interface with the epidermis, and the \_\_\_\_reticular\_\_\_\_\_\_, which accounts for 80% of the skin's thickness | Pacinian corpuscles;             |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+| i\.      | The reticular layer of the dermis contains \_\_\_\_\_Pacinian corpuscles\_\_\_\_\_ to sense firm pressure.                                                                                                                    | papillary layer; reticular layer |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+| j\.      | Apocrine and eccrine glands are both \_\_\_\_sudiferous\_\_\_\_\_\_ (sweat) glands.                                                                                                                                           | keratinocytes; keratin           |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+| k\.      | \_\_\_\_Ceruminous\_\_\_\_\_\_ glands produce a waxy substance to protect the ear canal from dust, small insects, etc.                                                                                                        | squamous epithelial tissue       |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+| l\.      | The portion of the hair that is above the surface of the skin is called the \_\_\_\_\_hair shaft\_\_\_\_\_.                                                                                                                   | Stratum corneum                  |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+| m\.      | The sub-surface portion of the hair is called the \_\_\_\_root\_\_\_\_\_\_.                                                                                                                                                   | Sudoriferous                     |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+| n\.      | The origin of the hair shaft, deep within the dermis, is called the \_\_\_\_\_follicle\_\_\_\_\_.                                                                                                                             | Ceruminous                       |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+| o\.      | The sheath in which a hair is held is called \_\_\_\_\_hair bulb\_\_\_\_\_.                                                                                                                                                   | Langerhans' cells                |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
+|          |                                                                                                                                                                                                                               | follicle                         |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
 
 ## **Post Lab Activity 5.3**
 
@@ -434,23 +515,23 @@ Match the statement blank with the correct answer.
 
 ### **Across**
 
--   **7** the layer which serves to strengthen the skin and provides our skin with elasticity. It contains hair follicles, sweat glands, and sebaceous glands. (9,5)
--   **8** a thin layer of cells in the epidermis lying above the stratum spinosum and below the stratum corneum. (7,10)
--   **9** the outermost of the three layers that comprise the skin (9)
+-   **7** the layer which serves to strengthen the skin and provides our skin with elasticity. It contains hair follicles, sweat glands, and sebaceous glands. (9,5) **reticular layer**
+-   **8** a thin layer of cells in the epidermis lying above the stratum spinosum and below the stratum corneum. (7,10) **stratum granulosum**
+-   **9** the outermost of the three layers that comprise the skin (9) **epidermis**
 
 ### **Down**
 
--   **1** the outermost layer of the epidermis comprised of several levels of flattened corneocytes (7,7)
+-   **1** the outermost layer of the epidermis comprised of several levels of flattened corneocytes (7,7) **stratum corneum**
 
--   **2** a more superficial and significantly thinner layer of the dermis, mainly composed of areolar connective tissue. (9,5)
+-   **2** a more superficial and significantly thinner layer of the dermis, mainly composed of areolar connective tissue. (9,5) **papillary layer**
 
--   **3** the lowermost layer of the integumentary system in vertebrates. (10)
+-   **3** the lowermost layer of the integumentary system in vertebrates. (10) **hypodermis**
 
--   **4** a layer of the epidermis composed of polyhedral keratinocytes. (7,8)
+-   **4** a layer of the epidermis composed of polyhedral keratinocytes. (7,8) **stratum spinosum**
 
--   **5** the deepest layer of the five layers of the epidermis, the external covering of skin in mammals. The stratum. It is a single layer of columnar or cuboidal basal cells (7,6)
+-   **5** the deepest layer of the five layers of the epidermis, the external covering of skin in mammals. The stratum. It is a single layer of columnar or cuboidal basal cells (7,6) **stratum basale**
 
--   **6** a thin, clear layer of dead skin cells in the epidermis named for its translucent appearance only in areas of thick skin (7,7)
+-   **6** a thin, clear layer of dead skin cells in the epidermis named for its translucent appearance only in areas of thick skin (7,7) **stratum lucidum**
 
 ## **Post Lab Activity 5.4**
 
@@ -514,17 +595,25 @@ Using the picture below, identify the substructures within the following accesso
 \
 \
 
-|   | List three major types of glands associated with the integumentary system and describe their function. |
-|------|--------------------------------------------------------|
-| a\) |  |
-| b\) |  |
-| c\) |  |
++----------------+--------------------------------------------------------------------------------------------------------+
+|                | List three major types of glands associated with the integumentary system and describe their function. |
++================+========================================================================================================+
+| a\)            |                                                                                                        |
++----------------+--------------------------------------------------------------------------------------------------------+
+| b\)            |                                                                                                        |
++----------------+--------------------------------------------------------------------------------------------------------+
+| c\)            |                                                                                                        |
++----------------+--------------------------------------------------------------------------------------------------------+
 
-|     | What are the three protective functions of the integumentary system? |
-|------|--------------------------------------------------------|
-| a\) |                                                                      |
-| b\) |                                                                      |
-| c\) |                                                                      |
++------------+----------------------------------------------------------------------+
+|            | What are the three protective functions of the integumentary system? |
++============+======================================================================+
+| a\)        |                                                                      |
++------------+----------------------------------------------------------------------+
+| b\)        |                                                                      |
++------------+----------------------------------------------------------------------+
+| c\)        |                                                                      |
++------------+----------------------------------------------------------------------+
 
 |     | List four functions of the integumentary system |
 |-----|-------------------------------------------------|
@@ -539,20 +628,31 @@ Using the picture below, identify the substructures within the following accesso
 \
 \
 
-| 1\) | List the five layers of the epidermis found in thick skin. Indicate which layer is not present in thin skin. |
-|-----|-------------------------------------------------------|
-| a\) |  |
-| b\) |  |
-| c\) |  |
-| d\) |  |
-| e\) |  |
++----------------+--------------------------------------------------------------------------------------------------------------+
+| 1\)            | List the five layers of the epidermis found in thick skin. Indicate which layer is not present in thin skin. |
++================+==============================================================================================================+
+| a\)            |                                                                                                              |
++----------------+--------------------------------------------------------------------------------------------------------------+
+| b\)            |                                                                                                              |
++----------------+--------------------------------------------------------------------------------------------------------------+
+| c\)            |                                                                                                              |
++----------------+--------------------------------------------------------------------------------------------------------------+
+| d\)            |                                                                                                              |
++----------------+--------------------------------------------------------------------------------------------------------------+
+| e\)            |                                                                                                              |
++----------------+--------------------------------------------------------------------------------------------------------------+
 
-| 2\) | Identify four accessory structures found in the dermis, describe their function. |
-|-----|-------------------------------------------------------|
-| a\) |  |
-| b\) |  |
-| c\) |  |
-| d\) |  |
++--------------------+----------------------------------------------------------------------------------+
+| 2\)                | Identify four accessory structures found in the dermis, describe their function. |
++====================+==================================================================================+
+| a\)                |                                                                                  |
++--------------------+----------------------------------------------------------------------------------+
+| b\)                |                                                                                  |
++--------------------+----------------------------------------------------------------------------------+
+| c\)                |                                                                                  |
++--------------------+----------------------------------------------------------------------------------+
+| d\)                |                                                                                  |
++--------------------+----------------------------------------------------------------------------------+
 
 ## **Answer keys**
 
@@ -564,76 +664,148 @@ Using the picture below, identify the substructures within the following accesso
 
 **Chapter 5: Integumentary System**
 
-| Key Terms | Definitions |
-|----------------------|-------------------------------------------------|
-| acne | skin condition due to infected sebaceous glands |
-| albinism | genetic disorder that affects the skin, in which there is no melanin production |
-| apocrine sweat gland | sweat gland that is armpits and genital regions |
-| arrector pili | smooth muscle that is activated in response to external stimuli that pull on hair follicles and make the hair "stand-up" |
-| basal cell | type of stem cell found in the stratum basale and in the hair matrix that continually undergoes cell division, producing the keratinocytes of the epidermis |
-| basal cell carcinoma | cancer that originates from basal cells in the epidermis of the skin |
-| bedsore | sore on the skin that develops when regions of the body start necrotizing due to constant pressure and lack of blood supply; also called decubitus ulcers |
-| callus | thickened area of skin that arises due to constant abrasion |
-| corn | type of callus that is named for its shape and the elliptical motion of the abrasive force |
-| cortex | in hair, the second or middle layer of keratinocytes originating from the hair matrix, as seen in a cross-section of the hair bulb |
-| cuticle | in hair, the outermost layer of keratinocytes originating from the hair matrix, as seen in a cross section of the hair bulb |
-| dermal papilla (plural = dermal papillae) | extension of the papillary layer of the dermis that increases surface contact between the epidermis and dermis |
-| dermis | layer of skin between the epidermis and hypodermis, composed mainly of connective tissue and containing blood vessels, hair follicles, sweat glands, and other structures |
-| desmosome | structure that forms an impermeable junction between cells |
-| eccrine sweat gland | sweat gland that is common throughout the skin surface; it produces a hypotonic sweat for thermoregulation |
-| eczema | skin condition due to an allergic reaction, which resembles a rash |
-| elastin fibers | fibers made of the protein elastin that increase the elasticity of the dermis |
-| epidermis | outermost tissue layer of the skin |
-| external root | outer layer of the hair follicle that is an extension of the epidermis, which |
-| sheath | encloses the hair root |
-| first-degree burn | superficial burn that injures only the epidermis |
-| fourth-degree burn | burn in which full thickness of the skin and underlying muscle and bone is damaged |
-| free nerve ending | a.k.a. bare nerve ending, is an unspecialized, afferent nerve fiber sending its signal to a sensory neuron. |
-| hair | keratinous filament growing out of the epidermis |
-| hair bulb | structure at the base of the hair root that surrounds the dermal papilla |
-| hair follicle | cavity or sac from which hair originates |
-| hair matrix | layer of basal cells from which a strand of hair grows |
-| hair papilla | mass of connective tissue, blood capillaries, and nerve endings at the base of the hair follicle |
-| hair root | part of hair that is below the epidermis anchored to the follicle |
-| hair shaft | part of hair that is above the epidermis but is not anchored to the follicle |
-| hypodermis | connective tissue connecting the integument to the underlying bone and muscle |
-| hyponychium | thickened layer of stratum corneum that lies below the free edge of the nail |
-| integumentary system | skin and its accessory structures |
-| internal root sheath | innermost layer of keratinocytes in the hair follicle that surround the hair root up to the hair shaft |
-| keloid scar | scar that has layers raised above the skin surface |
-| keratin | structural protein that gives skin, hair, and nails its hard, water-resistant properties |
-| keratinocyte | cell that produces keratin and is the most predominant type of cell found in the epidermis |
-| Langerhans cell | specialized dendritic cell found in the stratum spinosum that functions as a macrophage |
-| lunula layer of thick epithelium | basal part of the nail body that consists of a crescent-shaped layer of thick epithelium |
-| medulla | in hair, the innermost layer of keratinocytes originating from the hair matrix |
-| Meissner corpuscle (also, tactile corpuscle) | in the skin that responds to light touch |
-| melanin | pigment that determines the color of hair and skin |
-| melanocyte | cell found in the stratum basale of the epidermis that produces the pigment melanin |
-| melanoma | type of skin cancer that originates from the melanocytes of the skin |
-| melanosome | intercellular vesicle that transfers melanin from melanocytes into keratinocytes of the epidermis |
-| merocrine gland | See eccrine gland |
-| Merkel cell | receptor cell in the stratum basale of the epidermis that responds to the sense of touch |
-| metastasis | spread of cancer cells from a source to other parts of the body |
-| nail bed | layer of epidermis upon which the nail body forms |
-| nail body | main keratinous plate that forms the nail |
-| nail cuticle | fold of epithelium that extends over the nail bed, also called the eponychium |
-| nail fold | fold of epithelium at that extend over the sides of the nail body, holding it in place nail root part of the nail that is lodged deep in the epidermis from which the nail grows |
-| Pacinian corpuscle (also, lamellated corpuscle) | receptor in the skin that responds to vibration |
-| papillary layer | superficial layer of the dermis, made of loose, areolar connective tissue |
-| reticular layer | deeper layer of the dermis; it has a reticulated appearance due to the presence of abundant collagen and elastin fibers |
-| rickets | disease in children caused by vitamin D deficiency, which leads to the weakening of bones |
-| scar | collagen-rich skin formed after the process of wound healing that is different from normal skin |
-| sebaceous gland | type of oil gland found in the dermis all over the body and helps to lubricate and waterproof the skin and hair by secreting sebum |
-| sebum | oily substance that is composed of a mixture of lipids that lubricates the skin and hair |
-| second-degree burn | partial thickness burn that injures the epidermis and a portion of the dermis |
-| squamous cell | type of skin cancer that originates from the stratum spinosum of the |
-| carcinoma | epidermis |
-| stratum basale | deepest layer of the epidermis, made of epidermal stem cells |
-| stratum corneum | most superficial layer of the epidermis |
-| stratum granulosum | layer of the epidermis superficial to the stratum spinosum |
-| stratum lucidum | layer of the epidermis between the stratum granulosum and stratum corneum, found only in thick skin covering the palms, soles of the feet, and digits |
-| stratum spinosum | layer of the epidermis superficial to the stratum basale, characterized by the presence of desmosomes |
-| sudoriferous gland | sweat gland |
-| third-degree burn | burn that penetrates and destroys the full thickness of the skin (epidermis and dermis) |
-| vitamin D | compound that aids absorption of calcium and phosphates in the intestine to improve bone health |
-| vitiligo | skin condition in which melanocytes in certain areas lose the ability to produce melanin, possibly due an autoimmune reaction that leads to loss of color in patches |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Key Terms                                       | Definitions                                                                                                                                                                      |
++=================================================+==================================================================================================================================================================================+
+| acne                                            | skin condition due to infected sebaceous glands                                                                                                                                  |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| albinism                                        | genetic disorder that affects the skin, in which there is no melanin production                                                                                                  |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| apocrine sweat gland                            | sweat gland that is armpits and genital regions                                                                                                                                  |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| arrector pili                                   | smooth muscle that is activated in response to external stimuli that pull on hair follicles and make the hair "stand-up"                                                         |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| basal cell                                      | type of stem cell found in the stratum basale and in the hair matrix that continually undergoes cell division, producing the keratinocytes of the epidermis                      |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| basal cell carcinoma                            | cancer that originates from basal cells in the epidermis of the skin                                                                                                             |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| bedsore                                         | sore on the skin that develops when regions of the body start necrotizing due to constant pressure and lack of blood supply; also called decubitus ulcers                        |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| callus                                          | thickened area of skin that arises due to constant abrasion                                                                                                                      |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| corn                                            | type of callus that is named for its shape and the elliptical motion of the abrasive force                                                                                       |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| cortex                                          | in hair, the second or middle layer of keratinocytes originating from the hair matrix, as seen in a cross-section of the hair bulb                                               |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| cuticle                                         | in hair, the outermost layer of keratinocytes originating from the hair matrix, as seen in a cross section of the hair bulb                                                      |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| dermal papilla (plural = dermal papillae)       | extension of the papillary layer of the dermis that increases surface contact between the epidermis and dermis                                                                   |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| dermis                                          | layer of skin between the epidermis and hypodermis, composed mainly of connective tissue and containing blood vessels, hair follicles, sweat glands, and other structures        |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| desmosome                                       | structure that forms an impermeable junction between cells                                                                                                                       |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| eccrine sweat gland                             | sweat gland that is common throughout the skin surface; it produces a hypotonic sweat for thermoregulation                                                                       |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| eczema                                          | skin condition due to an allergic reaction, which resembles a rash                                                                                                               |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| elastin fibers                                  | fibers made of the protein elastin that increase the elasticity of the dermis                                                                                                    |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| epidermis                                       | outermost tissue layer of the skin                                                                                                                                               |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| external root                                   | outer layer of the hair follicle that is an extension of the epidermis, which                                                                                                    |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| sheath                                          | encloses the hair root                                                                                                                                                           |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| first-degree burn                               | superficial burn that injures only the epidermis                                                                                                                                 |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| fourth-degree burn                              | burn in which full thickness of the skin and underlying muscle and bone is damaged                                                                                               |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| free nerve ending                               | a.k.a. bare nerve ending, is an unspecialized, afferent nerve fiber sending its signal to a sensory neuron.                                                                      |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| hair                                            | keratinous filament growing out of the epidermis                                                                                                                                 |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| hair bulb                                       | structure at the base of the hair root that surrounds the dermal papilla                                                                                                         |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| hair follicle                                   | cavity or sac from which hair originates                                                                                                                                         |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| hair matrix                                     | layer of basal cells from which a strand of hair grows                                                                                                                           |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| hair papilla                                    | mass of connective tissue, blood capillaries, and nerve endings at the base of the hair follicle                                                                                 |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| hair root                                       | part of hair that is below the epidermis anchored to the follicle                                                                                                                |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| hair shaft                                      | part of hair that is above the epidermis but is not anchored to the follicle                                                                                                     |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| hypodermis                                      | connective tissue connecting the integument to the underlying bone and muscle                                                                                                    |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| hyponychium                                     | thickened layer of stratum corneum that lies below the free edge of the nail                                                                                                     |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| integumentary system                            | skin and its accessory structures                                                                                                                                                |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| internal root sheath                            | innermost layer of keratinocytes in the hair follicle that surround the hair root up to the hair shaft                                                                           |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| keloid scar                                     | scar that has layers raised above the skin surface                                                                                                                               |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| keratin                                         | structural protein that gives skin, hair, and nails its hard, water-resistant properties                                                                                         |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| keratinocyte                                    | cell that produces keratin and is the most predominant type of cell found in the epidermis                                                                                       |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Langerhans cell                                 | specialized dendritic cell found in the stratum spinosum that functions as a macrophage                                                                                          |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| lunula layer of thick epithelium                | basal part of the nail body that consists of a crescent-shaped layer of thick epithelium                                                                                         |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| medulla                                         | in hair, the innermost layer of keratinocytes originating from the hair matrix                                                                                                   |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Meissner corpuscle (also, tactile corpuscle)    | in the skin that responds to light touch                                                                                                                                         |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| melanin                                         | pigment that determines the color of hair and skin                                                                                                                               |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| melanocyte                                      | cell found in the stratum basale of the epidermis that produces the pigment melanin                                                                                              |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| melanoma                                        | type of skin cancer that originates from the melanocytes of the skin                                                                                                             |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| melanosome                                      | intercellular vesicle that transfers melanin from melanocytes into keratinocytes of the epidermis                                                                                |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| merocrine gland                                 | See eccrine gland                                                                                                                                                                |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Merkel cell                                     | receptor cell in the stratum basale of the epidermis that responds to the sense of touch                                                                                         |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| metastasis                                      | spread of cancer cells from a source to other parts of the body                                                                                                                  |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| nail bed                                        | layer of epidermis upon which the nail body forms                                                                                                                                |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| nail body                                       | main keratinous plate that forms the nail                                                                                                                                        |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| nail cuticle                                    | fold of epithelium that extends over the nail bed, also called the eponychium                                                                                                    |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| nail fold                                       | fold of epithelium at that extend over the sides of the nail body, holding it in place nail root part of the nail that is lodged deep in the epidermis from which the nail grows |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Pacinian corpuscle (also, lamellated corpuscle) | receptor in the skin that responds to vibration                                                                                                                                  |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| papillary layer                                 | superficial layer of the dermis, made of loose, areolar connective tissue                                                                                                        |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| reticular layer                                 | deeper layer of the dermis; it has a reticulated appearance due to the presence of abundant collagen and elastin fibers                                                          |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| rickets                                         | disease in children caused by vitamin D deficiency, which leads to the weakening of bones                                                                                        |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| scar                                            | collagen-rich skin formed after the process of wound healing that is different from normal skin                                                                                  |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| sebaceous gland                                 | type of oil gland found in the dermis all over the body and helps to lubricate and waterproof the skin and hair by secreting sebum                                               |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| sebum                                           | oily substance that is composed of a mixture of lipids that lubricates the skin and hair                                                                                         |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| second-degree burn                              | partial thickness burn that injures the epidermis and a portion of the dermis                                                                                                    |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| squamous cell                                   | type of skin cancer that originates from the stratum spinosum of the                                                                                                             |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| carcinoma                                       | epidermis                                                                                                                                                                        |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| stratum basale                                  | deepest layer of the epidermis, made of epidermal stem cells                                                                                                                     |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| stratum corneum                                 | most superficial layer of the epidermis                                                                                                                                          |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| stratum granulosum                              | layer of the epidermis superficial to the stratum spinosum                                                                                                                       |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| stratum lucidum                                 | layer of the epidermis between the stratum granulosum and stratum corneum, found only in thick skin covering the palms, soles of the feet, and digits                            |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| stratum spinosum                                | layer of the epidermis superficial to the stratum basale, characterized by the presence of desmosomes                                                                            |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| sudoriferous gland                              | sweat gland                                                                                                                                                                      |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| third-degree burn                               | burn that penetrates and destroys the full thickness of the skin (epidermis and dermis)                                                                                          |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| vitamin D                                       | compound that aids absorption of calcium and phosphates in the intestine to improve bone health                                                                                  |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| vitiligo                                        | skin condition in which melanocytes in certain areas lose the ability to produce melanin, possibly due an autoimmune reaction that leads to loss of color in patches             |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
